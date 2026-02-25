@@ -1,0 +1,18 @@
+[submodule "op-geth"]
+	path = op-geth
+	url = git@github.com:wangdayong228/op-geth.git
+[submodule "op-work"]
+	path = op-work
+	url = git@github.com:wangdayong228/op-work.git
+[submodule "optimism"]
+	path = optimism
+	url = git@github.com:wangdayong228/optimism.git
+[submodule "optimism-package"]
+	path = optimism-package
+	url = git@github.com:wangdayong228/optimism-package.git
+[submodule "linux-service-monitor"]
+	path = linux-service-monitor
+	url = https://github.com/conflux-fans/linux-service-monitor.git
+[submodule "chain-tps-bench"]
+	path = chain-tps-bench
+	url = git@github.com:wangdayong228/chain-tps-bench.git
